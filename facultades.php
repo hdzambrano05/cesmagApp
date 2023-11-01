@@ -6,7 +6,7 @@ include 'conexion.php';
 <h1> Listado de facultades </h1>
 
 <div align="right">
-  <a class= "btn btn-primary"> Adiccionar</a>
+  <a class= "btn btn-primary" href="form_registro_fac.php"> Adiccionar</a>
 </div>
 
 <table class="table">
